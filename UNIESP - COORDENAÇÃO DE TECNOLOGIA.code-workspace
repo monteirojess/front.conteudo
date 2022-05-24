@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="shortcut icon" href="uni.ico">
+    <title> UNIESP - COORDENAÇÃO DE TECNOLOGIA</title>
+    <link rel="stylesheet" href="style.css">
+<div class = "apresentacao" alignh="center" </div>
+<h2> A UNIESP preocupada no mercado de tecnologia, ocupa-se no desenvolvimento de: </h2>
+<div class="conteudo" </div>
+<ul>
+<li> <em> Corporativos </li> </em>
+<li> <em> Web e Mobile </li> </em>
+<li> <em> Portais para internet e intranet. </li> </em>
+<li> <em>Projetos de sistemas </em></li>
+<li><em>Banco de Dados</em></li>
+<li> <em>Tecnologias emergentes </em></li>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CITZHLVmFcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://share.hsforms.com/1XHlvtetnTRm4fgs5ybkKQAc6f7l?__hstc=170297983.c2e26e7afc040ae99e649251f8a5ccc4.1652743448417.1652743448417.1652794694349.2&__hssc=170297983.3.1652794694349&__hsfp=1439851616'">
+</div>
+</p>
+<p><button> Saiba mais</button>
+</a>
+</p> 
+    <div class = "apresentacao" 
+<h2> <b> SOBRE A UNIESP </b> </h2> 
+</div>
+<div class="apresentacao" 
+<colgroup>
+<h3> INFRAESTRUTURA</h3>
+<div class="conteudo"
+<p> Contamos com um bloco de tecnologia com máquinas de alto desempenho, biblioteca com acervo atualizado, salas multimídeas e amplo estacionamento gratuito.</p>
+</div>
+<h3> PESQUISA E INOVAÇÃO </h3>
+<div class="conteudo"
+<p> A Uniesp conta com a Fábrica de Software, o Programa de Inclusão Digital(PID) e de cursos de extensão voltados a robótica.</p>
+</div>
+<h3> ENCAMINHAMENTO PROFISSIONAL </h3>
+<div class="conteudo"
+<p> Contamos com  o núcleo de carreiras:cujo encaminhamos constantemente nossos alunos para o mercado de trabalho. Além de garantimos o suporte emocional e psicológico através do NUPS.</p>
+</div>
+</colgroup>
+<div class = "central" </div>
+    <h1> NOSSOS PARCEIROS</h1>
+<a href="https://www.indracompany.com/pt-br/"><img src="indra.png" alt="logo indra">
+<a href="https://compass.uol/pt/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass%20uol&gclid=CjwKCAjwj42UBhAAEiwACIhADnqxieQHLBzz8j4Xs9XzkSGDCo4jvnGDaBZCAz1iSvgpWPYrjj9-0RoC3rEQAvD_BwE"><img src="uol.png" alt="logo compass uol">
+<a href="https://dock.tech/"><img src="d2.png" alt="logo dock">
+

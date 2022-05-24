@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+    background-color: white
+    font-family: Arial;
+}
+div.apresentacao{
+    color: rgb(216, 43, 43); 
+}
+div.colunas {
+    color: rgb(216, 43, 43);
+}
+div.colunas{
+    margin: 0%;
+    margin-left: 50%;
+    
+}
+div.conteudo {
+    color:rgb(107, 105, 105) ;
+    font-family: Arial;
+}
+div.parceiros{
+    color: rgb(216, 43, 43); 
+
+}
+div.video{
+    color: rgb(216, 43, 43); 
+    font-family: Arial;
+}
+#imagens{
+    height: 70px;
+    width: auto;
+
+}
+ul {
+    margin-left: 40px;
+    color:rgb(107, 105, 105) ;
+}
+button {
+    background-color: rgb(216, 43, 43);
+    color: white
+}
